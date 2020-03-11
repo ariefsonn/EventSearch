@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "7137113586",
+    "firebase_url": "https://event-search-61ac2.firebaseio.com",
+    "project_id": "event-search-61ac2",
+    "storage_bucket": "event-search-61ac2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:7137113586:android:2dca403224c9d0e73c676b",
+        "android_client_info": {
+          "package_name": "com.app.eventsearch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "7137113586-7jl9hopjlu9jm2pk36ni3genh1kqinsa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEl_Q6uEcSe6EXHltIBBf2xfBQR_gITx8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "7137113586-7jl9hopjlu9jm2pk36ni3genh1kqinsa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
